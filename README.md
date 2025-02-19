@@ -18,6 +18,7 @@ U4C6O12T - Tarefa para entender como funciona o Display OLED
 2- Botao B alterna o estado do LED RGB Azul (ligado/desligado).
 
 3- Teclas do teclado sao utilizadas por meio do monitor serial, todas as letras do alfabeto e numeros de 0 a 9 podem ser utilizados para aparecer no display.
+
 # Link do vídeo demonstrando funcionamento
 
-https://youtu.be/Fs3OrkXqqKw
+https://youtu.be/-pbYOr2teE8
